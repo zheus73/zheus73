@@ -6,5 +6,3 @@ MSc student in Materials Science at the [University of Brasília (UnB)](https://
 
 ## 🛠️ Tools
 
-## 📌 Featured projects
-
