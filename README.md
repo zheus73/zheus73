@@ -4,18 +4,7 @@ MSc student in Materials Science at the [University of Brasília (UnB)](https://
 
 ## 🔬 Research
 
-- **Molecular Dynamics (LAMMPS):** mechanical and thermal behavior of carbon nanostructures, with a focus on carbyne chain bundles (e.g. torsion at different temperatures)
-- **Density Functional Theory (Quantum ESPRESSO):** electronic structure and electron-phonon coupling
-- **Machine Learning for Materials Science:** data-driven screening of candidate materials, including superconductors
-
 ## 🛠️ Tools
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-
-LAMMPS · Quantum ESPRESSO · SLURM / HPC clusters · NumPy · pandas · scikit-learn · Matplotlib · OVITO
 
 ## 📌 Featured projects
 
