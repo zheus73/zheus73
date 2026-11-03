@@ -25,6 +25,5 @@ LAMMPS · Quantum ESPRESSO · SLURM / HPC clusters · NumPy · pandas · scikit-
 
 ## 📫 Get in touch
 
-- Email: your.email@example.com
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
-- Google Scholar / ORCID: [add link](https://orcid.org/)
+- LinkedIn: [your-profile](https://www.linkedin.com/in/sandroholanda/)
+- Google Scholar / ORCID: [add link](https://scholar.google.com/citations?user=A8hoySQAAAAJ&hl=pt-BR&authuser=1)
